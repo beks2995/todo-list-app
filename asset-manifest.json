@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/todo-list-app/static/css/main.2d30f660.chunk.css",
+    "main.js": "/todo-list-app/static/js/main.e8f98682.chunk.js",
+    "main.js.map": "/todo-list-app/static/js/main.e8f98682.chunk.js.map",
+    "runtime-main.js": "/todo-list-app/static/js/runtime-main.4dccb57c.js",
+    "runtime-main.js.map": "/todo-list-app/static/js/runtime-main.4dccb57c.js.map",
+    "static/js/2.4785b0f1.chunk.js": "/todo-list-app/static/js/2.4785b0f1.chunk.js",
+    "static/js/2.4785b0f1.chunk.js.map": "/todo-list-app/static/js/2.4785b0f1.chunk.js.map",
+    "index.html": "/todo-list-app/index.html",
+    "static/css/main.2d30f660.chunk.css.map": "/todo-list-app/static/css/main.2d30f660.chunk.css.map",
+    "static/js/2.4785b0f1.chunk.js.LICENSE.txt": "/todo-list-app/static/js/2.4785b0f1.chunk.js.LICENSE.txt",
+    "static/media/stylesheet.css": "/todo-list-app/static/media/Veles-Regular.d3a7793d.ttf",
+    "static/media/all.min.css": "/todo-list-app/static/media/fa-solid-900.46fdbd2d.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4dccb57c.js",
+    "static/js/2.4785b0f1.chunk.js",
+    "static/css/main.2d30f660.chunk.css",
+    "static/js/main.e8f98682.chunk.js"
+  ]
+}
